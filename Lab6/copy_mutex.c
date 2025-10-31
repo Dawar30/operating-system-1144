@@ -122,6 +122,7 @@ int main()
     pthread_mutex_destroy(&mutex); // destroy mutex
 
     printf("Final count: %d\n", count);
+    printf("Final count: %d\n", count);
 
     return 0;
 }
